@@ -1,0 +1,451 @@
+{
+    "Deportes": [
+        {
+            "question": "¿Cuál fue el primer español en ganar el Balón de Oro?",
+            "answers": [
+                "Fernando Torres",
+                "David Villa",
+                "Luis Suárez",
+                "Alexia Putellas"
+            ],
+            "correct": 3
+        },
+
+        {
+            "question": "Cuál es el equipo con más Copas del Rey?",
+            "answers": [
+                "FC Barcelona",
+                "Real Madrid",
+                "Athletic de Bilbao",
+                "Atlético de Madrid"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Quién es el nadador con más medallas olímpicas?",
+            "answers": [
+                "Ian Thorpe",
+                "Michael Phelps",
+                "Mark Spitz",
+                "Alexander Popov"
+            ],
+            "correct": 2
+        },
+        
+        {
+            "question": "¿Cuántos balones de oro tiene Messi?",
+            "answers": [
+                "Abde",
+                "6",
+                "7",
+                "8"
+            ],
+            "correct": 4
+        },
+
+        {
+            "question": "¿Cuál es la liga de fútbol con más títulos europeos?",
+            "answers": [
+                "Liga Francesa",
+                "Liga Italiana",
+                "Liga Española",
+                "Liga Inglesa"
+            ],
+            "correct": 3
+        },
+    
+        {
+            "question": "¿Quién es considerado el mejor jugador de baloncesto de todos los tiempos y es conocido como 'El Rey'?",
+            "answers": [
+                "Kobe Bryant",
+                "Shaquille O'Neal",
+                "Michael Jordan",
+                "Larry Bird"
+            ],
+            "correct": 3
+        },
+
+        {
+            "question": "¿Qué país ha ganado la Copa Mundial de Fútbol FIFA en cinco ocasiones hasta el año 2022?",
+            "answers": [
+                "Alemania",
+                "Brasil",
+                "Argentina",
+                "Italia"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Cuál es el cinturón de más categoría en Taekwondo?",
+            "answers": [
+                "Dorado",
+                "Negro",
+                "Blanco",
+                "Marrón"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "En el boxeo, ¿cuál es el término utilizado para describir una pelea en la que ningún boxeador es declarado ganador al final de la misma?",
+            "answers": [
+                "Empate",
+                "No contest",
+                "No decision",
+                "Anulación"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Cuál fue la mascota de los Juegos Olímpicos de Barcelona en 1992?",
+            "answers": [
+                "Vinicius",
+                "Wenlock",
+                "Cobi",
+                "Hodori"
+            ],
+            "correct": 3
+        }
+    ],
+
+    "Música": [
+
+        {
+            "question": "¿Cuál es el artista musical con más Grammys?",
+            "answers": [
+                "Kanye West",
+                "Beyoncé",
+                "Taylor Swift",
+                "Stevie Wonder"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Quién compuso la Sinfonía n.º 5?",
+            "answers": [
+                "Beethoven",
+                "Vivaldi",
+                "Wagner",
+                "Mozart"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Quién es el artista musical más escuchado en Spotify?",
+            "answers": [
+                "Taylor Swift",
+                "Bad Bunny",
+                "TheWeeknd",
+                "Drake"
+            ],
+            "correct": 3
+        },
+
+        {
+            "question": "¿Quién/es són considerados por los Grammys el mejor artista muscial de todos los tiempos?",
+            "answers": [
+                "Michael Jackson",
+                "The Beatles",
+                "Rolling Stones",
+                "Anuel AA"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Cuál fue el género más escuchado en 2023?",
+            "answers": [
+                "Hip-Hop",
+                "Pop",
+                "Reggaeton",
+                "Rock"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Cuál és la canción más escuchada en Spotify?",
+            "answers": [
+                "Blinding Lights",
+                "Shape of You",
+                "Someone You Loved",
+                "Sola Remix"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿En que año murió Michael Jackson?",
+            "answers": [
+                "2009",
+                "2012",
+                "2005",
+                "1999"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Cuál és la edad del joven artista Quevedo?",
+            "answers": [
+                "22",
+                "20",
+                "24",
+                "19"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Que artista sacó en 2007 el albúm Graduation?",
+            "answers": [
+                "Michael Jackson",
+                "Juice WRLD",
+                "Drake",
+                "Kanye West"
+            ],
+            "correct": 4
+        },
+
+        {
+            "question": "¿Cuál es la banda de Rock más escuchada actualmente?",
+            "answers": [
+                "Rolling Stones",
+                "AC/DC",
+                "Guns n Roses",
+                "Queen"
+            ],
+            "correct": 4
+        }
+
+    ],
+
+    "Geografía": [
+        {
+            "question": "¿Cuál es el país con más habitantes en todo el mundo?",
+            "answers": [
+                "China",
+                "India",
+                "EEUU",
+                "Japón"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Cuál es el país más grande del mundo?",
+            "answers": [
+                "Brasil",
+                "Rusia",
+                "EEUU",
+                "Europa"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Cuál es el río más largo de la Península Ibérica?",
+            "answers": [
+                "Guadalquivir",
+                "Ebro",
+                "Duero",
+                "Tajo"
+            ],
+            "correct": 4
+        },
+
+        {
+            "question": "¿Cuál es el país más pequeño del mundo?",
+            "answers": [
+                "Islas Marshall",
+                "Nauru",
+                "Ciudad del Vaticano",
+                "Mónaco"
+            ],
+            "correct": 3
+        },
+
+        {
+            "question": "¿Cuál es la montaña más alta del mundo?",
+            "answers": [
+                "K2",
+                "Everest",
+                "Kanchenjunga",
+                "Mihonestonabo"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Cuál es la ciudad más poblada del mundo?",
+            "answers": [
+                "Daca",
+                "Delhi",
+                "Tokio",
+                "Shanghái"
+            ],
+            "correct": 3
+        },
+
+        
+        {
+            "question": "¿Cuántos continentes existen?",
+            "answers": [
+                "4",
+                "6",
+                "5",
+                "7"
+            ],
+            "correct": 3
+        },
+
+        {
+            "question": "¿Dónde encontramos el Machu Pichu?",
+            "answers": [
+                "Perú",
+                "España",
+                "Ecuador",
+                "Ciudad de la Muerte"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Cuál es la capital de la India?",
+            "answers": [
+                "Nueva Delhi",
+                "Pequín",
+                "Sanà",
+                "Al·lahu-àkbar"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Cuál es la ciudad más calurosa de la Tierra?",
+            "answers": [
+                "Sevilla",
+                "El Valle de la Muerte",
+                "Tucho Chete",
+                "Dash -e Lut"
+            ],
+            "correct": 4
+        }
+    ],
+    "Entretenimiento": [
+        {
+            "question": "¿Cuál es el nombre del actor que interpretó a Iron Man en las películas del Universo Cinematográfico de Marvel?",
+            "answers": [
+                "Chris Hemsworth",
+                "Chris Evans",
+                "Robert Downey Jr.",
+                "José Luis Torrente"
+            ],
+            "correct": 3
+        },
+
+        {
+            "question": "¿Cuál es el título de la serie de televisión en la que un profesor de química se convierte en un narcotraficante conocido como 'Heisenberg'?",
+            "answers": [
+                "Breaking Bad",
+                "The Wire",
+                "The Wire",
+                "The Sopranos"
+            ],
+            "correct": 1
+        },
+
+        {
+            "question": "¿Cuál es el nombre del mago ficticio creado por J.K. Rowling que es el personaje principal de una serie de libros y películas?",
+            "answers": [
+                "Merlin",
+                "Harry Potter ",
+                "Ismael Veloz Polanco",
+                "Gandalf"
+            ],
+            "correct": 2
+        },
+        
+        {
+            "question": "En la película 'Forrest Gump', ¿qué deporte practica Forrest a nivel universitario?",
+            "answers": [
+                "Béisbol",
+                "Baloncesto",
+                "Golf",
+                "Fútbol americano"
+            ],
+            "correct": 4
+        },
+
+        {
+            "question": "¿Cúal és el YouTuber español con más seguidores en YouTube?",
+            "answers": [
+                "ElRubiusOMG",
+                "Vegetta777",
+                "YoSoyPlex",
+                "MikeCrack"
+            ],
+            "correct": 4
+        },
+    
+        {
+            "question": "¿Cuál es el nombre del villano principal en la película 'El Rey León' de Disney?",
+            "answers": [
+                "Mufasa",
+                "Scar",
+                "Juan",
+                "Jafar"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Quién es el director de la película 'Pulp Fiction'?",
+            "answers": [
+                "Martin Scorsese",
+                "Quentin Tarantino",
+                "Christopher Nolan",
+                "Raúl Fuentes"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Cuál es el nombre de la película animada de Pixar en la que un pez payaso llamado Marlin busca a su hijo, Nemo?",
+            "answers": [
+                "Buscando a Dory",
+                "Buscando a Nemo",
+                "Toy Story",
+                "Up"
+            ],
+            "correct": 2
+        },
+
+        {
+            "question": "¿Cuál es el título de la serie de ciencia ficción en la que un grupo de supervivientes lucha por sobrevivir a un apocalipsis zombie?",
+            "answers": [
+                "Lost",
+                "Stranger Things",
+                "Breaking Bad",
+                "The Walking Dead"
+            ],
+            "correct": 4
+        },
+
+        {
+            "question": "¿Cuál de estos actores NO ha interpretado al superhéroe Spiderman?",
+            "answers": [
+                "Andrew Garfield",
+                "Tom Hanks",
+                "Tom Holland",
+                "Tobey Maguire"
+            ],
+            "correct": 2
+        }
+    ]
+}

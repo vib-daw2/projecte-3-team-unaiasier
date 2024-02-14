@@ -1,0 +1,94 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SMARKT</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <div id="logo">
+        <img id="logoImage" src="img/logo_smarkt.png" alt="Logo SMARKT">
+    </div>
+
+    <div id="nicknameArea">
+        Entra tu Nickname: <input id="nicknameInput" type="text">
+        <button id="sendButton" class="button">Enviar</button>
+    </div>
+
+    <div id="messageArea"></div>
+
+    <div id="joinGameArea" style="display: none;">
+
+        <button id="adminButton" class="button" style="display: none;">Crea tu propia partida</button>
+
+        Entra un PIN: <input id="gamePinInput" type="text">
+        <button id="playButton" class="button">Jugar</button>
+    </div>
+
+    <div id="gameConfigForm" style="display: none;">
+        <h2>Crear Partida</h2>
+        <input id="gameName" type="text" placeholder="Game Name">
+        <label for="questionTime">Tiempo por pregunta (segundos):</label>
+        <select id="questionTime">
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+        </select>
+        <label for="questionQuantity">Número de preguntas:</label>
+        <select id="questionQuantity">
+            <option value="5">5</option>
+            <option value="10">10</option>
+        </select>
+        <label for="questionCategory">Categoría:</label>
+        <select id="questionCategory"></select>
+
+        <button id="submitGameConfig" class="button">Guardar Configuración Partida</button>
+    </div>
+
+    <div id="adminControls" style="display: none;">
+        <p id="gamePIN"></p>
+        <button id="startGameButton" class="button">Start Game</button>
+    </div>
+    <div id="playerListArea" style="display: none;">
+        <ul id="playerList">Jugadores conectados:</ul>
+        <p id="waitingMessage">Esperando al admin para comenzar...</p>
+    </div>
+
+    <div id="adminGameView" style="display: none;">
+        <div id="questionDisplay"></div>
+        <div id="adminTimerDisplay"></div>
+    </div>
+
+    <div id="podiumContainer" style="display: none;"></div>
+    
+    <button id="newAdminGameButton" class="button" style="display: none;">Crear partida nueva</button>
+
+    <div id="feedback" style="display: none;">Feedback will appear here.</div>
+
+    <div id="playerGameView" style="display: none;">
+        <button class="answerButton" id="answer0">Answer 1</button>
+        <button class="answerButton" id="answer1">Answer 2</button>
+        <button class="answerButton" id="answer2">Answer 3</button>
+        <button class="answerButton" id="answer3">Answer 4</button>
+        <div id="questionDisplay"></div>
+        <div id="playerTimerDisplay"></div>
+        <div id="resultMessage" style="display: none;"></div>
+        <div id="scoreTableContainer"></div>
+    </div>
+    <div id="resultContainer" style="display: none;"></div>
+
+    <div id="newGameContainer" style="display: none;">
+        <button id="newGameButton">Jugar otra partida</button>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.6.0/socket.io.min.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
